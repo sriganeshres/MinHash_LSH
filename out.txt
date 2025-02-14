@@ -1,0 +1,50 @@
+Exact Jaccard Similarities (>= 0.5):
+MinHash Similarities with 50 hash functions (>= 0.5):
+False Positives: 505
+False Negatives: 1
+MinHash Similarities with 100 hash functions (>= 0.5):
+False Positives: 123
+False Negatives: 3
+MinHash Similarities with 200 hash functions (>= 0.5):
+False Positives: 36
+False Negatives: 1
+Exact Jaccard Similarities (>= 0.5):
+MinHash Similarities with 50 hash functions (>= 0.5):
+False Positives: 457
+False Negatives: 3
+MinHash Similarities with 100 hash functions (>= 0.5):
+False Positives: 78
+False Negatives: 3
+MinHash Similarities with 200 hash functions (>= 0.5):
+False Positives: 63
+False Negatives: 2
+Exact Jaccard Similarities (>= 0.5):
+MinHash Similarities with 50 hash functions (>= 0.5):
+False Positives: 403
+False Negatives: 2
+MinHash Similarities with 100 hash functions (>= 0.5):
+False Positives: 221
+False Negatives: 3
+MinHash Similarities with 200 hash functions (>= 0.5):
+False Positives: 33
+False Negatives: 0
+Exact Jaccard Similarities (>= 0.5):
+MinHash Similarities with 50 hash functions (>= 0.5):
+False Positives: 205
+False Negatives: 3
+MinHash Similarities with 100 hash functions (>= 0.5):
+False Positives: 65
+False Negatives: 2
+MinHash Similarities with 200 hash functions (>= 0.5):
+False Positives: 75
+False Negatives: 0
+Exact Jaccard Similarities (>= 0.5):
+MinHash Similarities with 50 hash functions (>= 0.5):
+False Positives: 318
+False Negatives: 4
+MinHash Similarities with 100 hash functions (>= 0.5):
+False Positives: 121
+False Negatives: 2
+MinHash Similarities with 200 hash functions (>= 0.5):
+False Positives: 29
+False Negatives: 2
